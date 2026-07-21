@@ -1,7 +1,7 @@
 .btn {
     border: none;
     cursor: pointer;
-    font: inherit;
+    font: asche;
     padding: 1rem;
     margin: 0;
     background-color: var(--color-primary);
